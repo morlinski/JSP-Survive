@@ -1,6 +1,8 @@
 # JSP-Survive
 Simple Game Functionality Created using Netbeans  JSP Servlets and MySql.
 
+ScreenShots: https://github.com/morlinski/JSP-Survive/issues/1
+
 (DataBase for MySQL)
 --------------------------------
 CREATE DATABASE Survive;
